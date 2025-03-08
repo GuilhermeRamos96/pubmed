@@ -107,5 +107,5 @@ if st.session_state.dados:
         st.download_button("📥 Baixar PDF", data=f, file_name="resultados_pubmed.pdf", mime="application/pdf")
 
 st.markdown("---")
-st.markdown("📌 Desenvolvido por **[Guilherme]** - Pesquisa baseada na PubMed via Biopython.")
+st.markdown("📌 Desenvolvido por **[G]** - Pesquisa baseada na PubMed via Biopython.")
 
